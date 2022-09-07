@@ -1,0 +1,57 @@
+/* styles.css */
+body {
+    background-color: red;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    background-color: black;
+    font-family: "Times New Roman", Tahoma, serif;
+    font-size: 14px;
+    text-align: right;
+}
+
+p {
+    background-color: white;
+    color: navy;
+    font-weight: 200;
+}
+.header {
+    background-color: green;
+    color: black;
+    font-weight: 900;
+    font-size: 28px;
+
+}
+
+.list {
+    background-color: purple;
+    color: white;
+    font-weight: bold;
+}
+
+a:link {
+    color: white;
+}
+a:visited {
+    color: white;
+}
+a:hover {
+    color: black;
+    background-color: white;
+    font-size: 28px;
+}
+a:active {
+    color: white;
+    background-color: black;
+}
+
+.main-img {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
